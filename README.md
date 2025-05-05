@@ -80,5 +80,5 @@ API Documentation: http://localhost:8000/docs
 ## Demo
 
 <div align="center">
-  <img src="Demo.gif" alt="Godfather Q&A Demo" width="800"/>
+  <img src="Demo_video.gif" alt="Godfather Q&A Demo" width="800"/>
 </div>
