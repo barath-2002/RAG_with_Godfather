@@ -38,8 +38,8 @@ CREATE EXTENSION vector;
 
 #### Clone the repository
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone [<repository-url>](https://github.com/barath-2002/RAG_with_Godfather.git)
+cd [<repository-directory>](https://github.com/barath-2002/RAG_with_Godfather.git)
 ```
 
 #### Create and activate virtual environment
@@ -76,3 +76,12 @@ The application will be available at:
 Frontend: http://localhost:3000
 Backend API: http://localhost:8000
 API Documentation: http://localhost:8000/docs
+
+## Demo
+
+<div align="center">
+  <video width="800" controls>
+    <source src="Demo.mov" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
