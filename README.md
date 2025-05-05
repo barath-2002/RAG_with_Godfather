@@ -2,6 +2,10 @@
 
 An interactive question-answering system built on "The Godfather" novel by Mario Puzo. The system uses LangChain, FastAPI, and React to create a conversational AI that can answer questions about the book's content.
 
+<div align="center">
+  <img src="Cover.jpg" alt="The Godfather Book Cover" width="300"/>
+</div>
+
 ## Features
 
 - PDF text extraction and processing
