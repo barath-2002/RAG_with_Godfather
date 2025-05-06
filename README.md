@@ -38,8 +38,8 @@ CREATE EXTENSION vector;
 
 #### Clone the repository
 ```bash
-git clone [<repository-url>](https://github.com/barath-2002/RAG_with_Godfather.git)
-cd [<repository-directory>](https://github.com/barath-2002/RAG_with_Godfather.git)
+git clone https://github.com/barath-2002/RAG_with_Godfather.git
+cd RAG_with_Godfather
 ```
 
 #### Create and activate virtual environment
@@ -48,11 +48,11 @@ python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
 # Install required packages
-pip install -r [requirements.txt](http://_vscodecontentref_/0)
+pip install -r requirements.txt
 ```
 
 ### 3. Set up environment variables
-echo "COHERE_API_KEY=your_cohere_api_key" > .env
+echo "COHERE_API_KEY=your_cohere_api_key" 
 
 
 ### 4. Frontend Setup
